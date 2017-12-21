@@ -2,12 +2,9 @@ POST /foo HTTP/1.1
 cache-control: no-cache
 Content-Type: application/json
 Transfer-Encoding: chunked
-User-Agent: PostmanRuntime/6.3.2
 Accept: */*
 Host: localhost
 accept-encoding: gzip, deflate
-X-Forwarded-Proto: https
-X-Forwarded-For: 38.88.244.69
 
 268
 {
